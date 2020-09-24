@@ -1,3 +1,5 @@
+Note: This removes reference to UI webview, to resolve a RN build issue on iOS, due to the api being depriciated.
+
 ![AppAuth for iOS and macOS](https://rawgit.com/openid/AppAuth-iOS/master/appauth_lockup.svg)
 [![Build Status](https://travis-ci.org/openid/AppAuth-iOS.svg?branch=master)](https://travis-ci.org/openid/AppAuth-iOS)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
